@@ -1,0 +1,170 @@
+body {
+    font-family: sans-serif;
+}body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Продаж квадроциклів</title>
+    <style>
+        /* Загальні стилі для тіла */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Стиль для заголовку */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Навігаційне меню */
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            float: left;
+        }
+
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        /* Основний контент */
+        section {
+            padding: 20px;
+        }
+
+        /* Стиль для футера */
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Стиль для карток товарів */
+        .product {
+            background-color: white;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            display: inline-block;
+            text-align: center;
+        }
+
+        /* Стиль для зображень товарів */
+        .product img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        /* Кнопка для покупки */
+        .product button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .product button:hover {
+            background-color: #45a049;
+        }
+
+        /* Заголовки в секціях */
+        h2 {
+            color: #333;
+        }
+
+        /* Стиль для тексту в секціях */
+        p {
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Продаж квадроциклів</h1>
+    <p>Купіть квадроцикл своєї мрії!</p>
+</header>
+
+<nav>
+    <a href="#home">Головна</a>
+    <a href="#products">Продукти</a>
+    <a href="#contact">Контакти</a>
+</nav>
+
+<section id="home">
+    <h2>Ласкаво просимо на наш сайт!</h2>
+    <p>Ми пропонуємо широкий вибір квадроциклів для різних потреб та смаків. Купити квадроцикл у нас - це легко та вигідно!</p>
+</section>
+
+<section id="products">
+    <h2>Наші квадроцикли</h2>
+
+    <div class=<"product"
+        <img src="https://via.placeholder.com/300x200" alt="Квадроцикл 1">
+        <h3>Квадроцикл 1</h3>
+        <p>Цей квадроцикл чудово підходить для активного відпочинку.</p>
+        <p><strong>Ціна:</strong> 50 000 грн</p>
+        <button>Купити</button>
+    </div>
+
+    <div class="product">
+        <img src="https://via.placeholder.com/300x200" alt="Квадроцикл 2">
+        <h3>Квадроцикл 2</h3>
+        <p>Мощний та надійний, для складних маршрутів.</p>
+        <p><strong>Ціна:</strong> 70 000 грн</p>
+        <button>Купити</button>
+    </div>
+
+    <div class="product">
+        <img src="https://via.placeholder.com/300x200" alt="Квадроцикл 3">
+        <h3>Квадроцикл 3</h3>
+        <p>Комфортний та стильний, ідеальний для поїздок по місту.</p>
+        <p><strong>Ціна:</strong> 60 000 грн</p>
+        <button>Купити</button>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Контакти</h2>
+    <p>Зв'яжіться з нами за телефоном: <strong>+38 (044) 123-45-67</strong></p>
+    <p>або напишіть на електронну пошту: <strong>info@quads.com</strong></p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Продаж квадроциклів. Усі права захищені.</p>
+</footer>
+
+</body>
+</html>
+
+
+
